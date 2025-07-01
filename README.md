@@ -6,7 +6,7 @@ A classic Sudoku puzzle built with **Java Swing**, offering an elegant GUI for e
 
 # Screenshots 📸
 
-![Sudoku Screenshot](./9713b54c-a644-4390-9947-a46c908de445.png)
+![Screenshot 2025-07-01 160705](https://github.com/user-attachments/assets/df340dd1-e922-4a32-a7b0-f027d3e6e57a)
 
 ---
 
